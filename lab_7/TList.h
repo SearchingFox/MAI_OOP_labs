@@ -1,11 +1,11 @@
 #ifndef TLIST_H
 #define TLIST_H
 
-#include <memory>
+#include <functional>
 #include <iostream>
+#include <memory>
 #include <future>
 #include <thread>
-#include <functional>
 
 #include "TAllocator.h"
 
